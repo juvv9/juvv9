@@ -1,4 +1,4 @@
-### Hi there 👋
+ <!-- Hi there 👋 -->
 
 <!--
 **juvv9/juvv9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,angular,jquery,jest)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,php,laravel,ruby,graphql,apollo,mysql,dynamodb)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,git,github,gitlab,npm,yarn,docker,postman,vscode,phpstorm,androidstudio,figma)](https://skillicons.dev)
