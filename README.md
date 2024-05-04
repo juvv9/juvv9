@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,angular,jquery,jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,angular,jest)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,php,laravel,ruby,graphql,apollo,mysql,dynamodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,php,laravel,graphql,apollo,mysql,dynamodb)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,git,github,gitlab,npm,yarn,docker,postman,vscode,phpstorm,androidstudio,figma)](https://skillicons.dev)
